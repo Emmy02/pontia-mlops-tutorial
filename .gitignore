@@ -64,3 +64,8 @@ docker-compose.override.yml
 *.key
 .envrc
 .env.*
+
+
+/data
+/models
+/training.log
